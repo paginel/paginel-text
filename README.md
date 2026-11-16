@@ -50,6 +50,8 @@ During the beta, the app is signed by neither Apple nor Microsoft, so your syste
 
 ## Also
 
+- **Command line**: `paginel-text` fills Word templates (`{{placeholders}}`) with Markdown and JSON, to `.docx` or PDF,
+  offline, for your scripts, servers and agents (Linux and Windows): [paginel/paginel-cli](https://github.com/paginel/paginel-cli).
 - **VS Code**: the [Paginel Text extension](https://marketplace.visualstudio.com/items?itemName=paginel.paginel-text).
 - **Orca**: the Paginel Text plugin, from [our Orca catalog](https://github.com/paginel/orca-plugins).
 - Contact: hello@paginel.com.
@@ -87,7 +89,9 @@ aussitôt, sans compte.
 - **Windows** : « Windows a protégé votre PC » : *Informations complémentaires*, puis *Exécuter quand même*.
 - **Linux** : `chmod +x Paginel_*.AppImage` puis lancez-la ; ou `sudo apt install ./Paginel_*_amd64.deb`.
 
-**Aussi** : l'[extension VS Code](https://marketplace.visualstudio.com/items?itemName=paginel.paginel-text), le plugin
+**Aussi** : la commande `paginel-text`, qui remplit des modèles Word (`{{balises}}`) avec du Markdown et du JSON, vers
+`.docx` ou PDF, hors ligne, pour vos scripts, serveurs et agents (Linux et Windows) :
+[paginel/paginel-cli](https://github.com/paginel/paginel-cli) ; l'[extension VS Code](https://marketplace.visualstudio.com/items?itemName=paginel.paginel-text), le plugin
 Orca depuis [notre catalogue](https://github.com/paginel/orca-plugins). Contact : hello@paginel.com.
 
 **Licence** : gratuite, logiciel propriétaire, tous droits réservés : voir [LICENSE](LICENSE).
